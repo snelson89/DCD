@@ -26,7 +26,7 @@
     - As of right now, this is just a "normal" folder on your machine. To make it a git-enabled folder and connect it with your GitHub account, open up GitHub Desktop and navigate to *Create New Repository...*. It will ask you for a few different things, but for now we only care about the **Name** and **Local Path**. For **Name** you can type "[your name]_first_github_directory" and for **Local Path** you should use the path to the folder you have just created. Make sure not to put the directory name itself, otherwise it will create a new directory within the one you just created.
     - Your repository is now set up. You have two options at this point:
          1. Keep adding/changing files
-         2. Publish your repository
+         2. Publish your repository  
     - Publishing your repository makes it "official" on GitHub and will allow you to share it with others. You don't need to publish it right away, though, as it will still keep track of all the changes you make.
      
 2. Cloning a repository
@@ -34,7 +34,7 @@
     - In this instance what you want to do is *clone* the repository. There are a few different ways this can be done, but I'll show you only one.
     - This can happen in two steps:
         1. Obtain the repository's https link (e.g. `https://github.com/snelson89/DCD.git`)
-        2. In GitHub Desktop, click *Clone Repository...*, navigate to URL, paste the link, and add a local path
+        2. In GitHub Desktop, click *Clone Repository...*, navigate to URL, paste the link, and add a local path  
     - To practice, clone my DCD repository to your local machine.
     - You now should have a folder on your computer called `DCD`
      
