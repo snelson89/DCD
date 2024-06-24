@@ -19,11 +19,20 @@
 ### The Basics
 
 1. Intializing a repository
+  - Suppose you are starting a new project and want to keep track of all the files you will be using.
+  - In this instance what you might want to do is first create a new directory on your local machine. Do that now and name it `[your name]_first_github_directory`.
+  - Once you have done that, add a file to the directly called `notes.txt`. In the `notes.txt` file write a sentence or two about what you have learned so far today.
+  - As of right now, this is just a "normal" folder on your machine. To make it a git-enabled folder and connect it with your GitHub account, open up GitHub Desktop and navigate to *Create New Repository...*. It will ask you for a few different things, but for now we only care about the **Name** and **Local Path**. For **Name** you can type "[your name]_first_github_directory" and for **Local Path** you should use the path to the folder you have just created. After 
 2. Cloning a repository
+   -
 3. Tracking/Committing Files
+   -
 4. Ignoring Files
+   -
 5. Pushing/Pulling Files
+    -
 6. Access Rights/Forking
+    -
 
 ### Further Resources
 
