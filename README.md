@@ -49,9 +49,13 @@
     - Once you've added a commit message you can click *Commit to main*. Your changes have now been committed. Do so now for both repositories.
       
 4. Pushing/Pulling Files
-    -
+    - Commiting is not enough. All that committing files does is tell your local machine that you are happy with your changes. In order to interact with the remote repository you musth *push* your changes after committing.
+    - In GitHub Desktop, there will be a button on the top right of the header bar that says "push origin". Once you click this your changes will be sent to the remote repository and become official.
+    - Push your changes to both your newly created repository as well as the DCD repository.
+    - After everyone has pushed their changes to DCD, GitHub Desktop should now show that you can *pull* other people's changes. When you are sharing a repository with others (and working on the same branch) you will be in a constant state of pushing and pulling with others. Because of this, it's always important that you push all of your changes/commits at the end of a working session (or many times within a working session) and pull other people's changes before starting to work. If the files get out of sync there are ways to fix them, but it's a hassle and best to avoid these types of problems by cutting them off at the source.
+    - To end, pull all of the changes that everyone made and make sure your DCD repository is up to date.
 
-And that's the basics. There is a lot more you can do with git but those features are beyond what we have time to discuss today. If you are interested in learning more, I have provided some links below.
+And that's the basics. There is a lot more you can do with git but those features are beyond what we have time to discuss today. If you are interested in learning more, I have provided some links below. This includes how to use git with the command line. In general, the strategy is the same: track files in a repository, commit those files once you have made changes, push/pull your commits to work remotely with yourself or others.
 
 
 ### Further Resources
