@@ -27,7 +27,8 @@
    - Your repository is now set up. You have two options at this point:
      1. Keep adding/changing files
      2. Publish your repository
-   - Publishing your repository makes it "official" on GitHub and will allow you to share it with others. You don't need to publish it right away, though, as it will still keep track of all the changes you make. 
+   - Publishing your repository makes it "official" on GitHub and will allow you to share it with others. You don't need to publish it right away, though, as it will still keep track of all the changes you make.
+     
 2. Cloning a repository
    - Suppose someone else has started a new project and you would like to join their repository.
    - In this instance what you want to do is *clone* the repository. There are a few different ways this can be done, but I'll show you only one.
@@ -35,6 +36,7 @@
      1. Obtain the repository's https link (e.g. `https://github.com/snelson89/DCD.git`)
      2. In GitHub Desktop, click *Clone Repository...*, navigate to URL, paste the link, and add a local path
    - To practice, clone my DCD repository to your local machine.
+     
 3. Tracking/Committing Files
    -
 4. Ignoring Files
