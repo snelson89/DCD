@@ -67,3 +67,18 @@ And that's the basics. There is a lot more you can do with git but those feature
 
 
 ## GitHub Pages
+
+1. You can use your GitHub account to make a personal website. Many people in computer science (and related fields) use this method for making a personal website.
+2. Let's use [this startup guide] to start making our own personal websites.
+3. Why is it good to have a personal academic website?
+   - Makes you look professional!
+   - ...
+
+
+### IACS Faculty Websites
+1. [Alan Calder](https://www.astro.sunysb.edu/acalder/)
+2. [Jeffrey Heinz](https://www.jeffreyheinz.net)
+3. [Heather Lynch](https://www.lynchlab.com)
+4. [Meg Schedel](http://www.schedel.net)
+5. [Ben Levine](https://levinegroup.org)
+6. [Yifan Sun](https://sites.google.com/site/yifansunwebsite)
