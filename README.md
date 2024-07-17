@@ -163,8 +163,8 @@ And that's the basics. There is a lot more you can do with git but those feature
        - Do not repeat information in a table that is already described in writing in the Results section
        - Ensure figures actually help readers better understand the methods or results
    - Literature Cited/References
-2. [Scott's experimental paper](files/writing-sample-1)
-3. [Scott's theoretical paper](files/writing-sample-2)
+2. [Scott's experimental paper](files/writing-sample-3.pdf)
+3. [Scott's theoretical paper](files/writing-sample-1.pdf)
 
 ## Peer Review
 
