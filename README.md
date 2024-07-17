@@ -82,3 +82,122 @@ And that's the basics. There is a lot more you can do with git but those feature
 4. [Meg Schedel](http://www.schedel.net)
 5. [Ben Levine](https://levinegroup.org)
 6. [Yifan Sun](https://sites.google.com/site/yifansunwebsite)
+
+# Informational Interviewing (7/3)
+
+# CV Workshop (7/10)
+
+# Research Methods (7/17)
+
+## Lit Search
+1. What is a literature search anw why is it important?
+   - A "key step in performing good authentic research"
+   - Critical for formulating research questions and identifying gaps
+   - Allows you to identify commonly used methods for addressing relevant research questions
+   - Organized and systematic literature searchers are necessary because there is such and incredible number of published studies and data
+   - [Literature search for research planning and identification of research problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5037943/)
+2. Have you performed a literature search in the past? How?
+3. Define your research question:
+   - Talk to your advisor/supervisor/mentor
+   - Ask for some key research papers relevant to your interests
+   - Look for relevant references that are cited in other papers and read those
+4. Determine key words and perform a search:
+   - After reading other papers you can come up with a set of key words
+   - Use these words to search places like Google Scholar/etc.
+5. Decide which papers to read:
+   - Skim the title/abstract/results
+   - Does it seem directly relevant?
+   - Is it not directly relevant but heavily cited?
+     
+   
+
+## Effectively Reading Papers
+
+1. Ultimately, there is no correct way and you need to take notes in the way that is best for you learning style
+   - Personally, I like reading physically printed copies better than digital (but still read a lot of digital stuff)
+2. What to highlight/take notes of?
+   - Key findings that support or do not support your hypothesis
+   - Methods that may be something you should investigate further
+   - Papers that are referenced in the text that you should find and read
+   - Future directions listed in the paper that may be of interest (possible research topic)
+3. [How to Read a Paper](https://dl.acm.org/doi/pdf/10.1145/1273445.1273458)
+4. [Art of reading a journal article: Methodically and effectively](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3687192/)
+   
+
+## How to write a research paper
+
+1. Parts of a manuscript
+   - Title, authors, affiliations, keywords
+   - Abstract
+       - Briefly present the paper's background and objectives (what knowledge gap is your study filling?)
+       - Explain the main components of the methods
+       - Summarize key results
+       - Approximately 300-350 words
+       - Needs to be succinct!
+   - Introduction
+       - Why was the study conducted?
+       - Why should anyone care?
+       - What is the question being addressed?
+       - What is unknown about the question?
+       - In what system will you be addressing this question?
+       - Key measurements you will be using
+       - Conclude with primary hypotheses + any secondary hypotheses
+   - Methods
+       - Arguably the most critical part of a manuscript
+       - Should be written succinctly, but with enough detail where the study could theoretically be replicated by a skilled researcher
+       - Need to describe all methods involved for data collection
+   - Results
+       - Organization of Results section should parallel the organization of the Methods section
+       - Start by describing the system (sample sizes, demographics of individuals, survey time periods)
+       - Then describe the results that correspond to each aspect described in the Methods
+       - Do not discuss what your results mean in the Results section
+   - Discussion
+       - Placeing your findings in a broader scientific context
+       - Before starting, determine which topics are most important to discuss in the Discussion section
+       - Start with brief discussion of main findings and then dive into each of the findings you determined to be the most important
+       - After you place your findings in a greater context, discuss limitations of the study
+       - End with realistic conclusiong -- what do your findings mean for the broader research community?
+   - Acknowledgments
+   - Tables and Figures
+       - Do not show the same data in a table and in a figure
+       - Do not repeat information in a table that is already described in writing in the Results section
+       - Ensure figures actually help readers better understand the methods or results
+   - Literature Cited/References
+2. [Scott's experimental paper](files/writing-sample-1)
+3. [Scott's theoretical paper](files/writing-sample-2)
+
+## Peer Review
+
+1. The process:
+   - Scientist study something
+   - Scientists write about their results
+   - Journal editor receives an article and sends it out for peer review
+   - Peer reviewers read the article and provide feedback to the editor
+   - Editor may send reviewer comments to the scientist who may then revise and resubmit the article for further review.
+   - If an article does not maintain sufficiently high scientific standards, it may be rejected
+   - If an article meets editorial and peer standards, it is published in a journal
+
+## File Organization
+
+1. If you do not actively think about adata organization, you may store files in random locations and then be unable to find them later
+   - A clear folder structure is the most straightforward method to ensuring you can find your files
+   - You need to think critically about the most logical folder structure
+   - You want to organized your files and then keep that structure because your code will likely pull files from your computer and if you alter file directories it can get messy
+2. Organization tips:
+   - Use hierarchical file folder structures
+   - Organize folders by meaningful categories based on contextual information
+   - Try to stick to a naming convention based on elements that are important to a project
+   - Avoid long file/folder names
+   - Do not use spaces (use capitals, periods, underscores)
+   - Use a consistent date format
+   - Include a version number
+3. Data Storage:
+   - You need to backup your data regularly
+   - Store it in more than one place
+   - Store it in two different types of media
+       - External hard drives
+       - Google Drive, Dropbox, etc.
+       - Hard copies (?)
+   - If you do not have automatic backups set up, then you need to plan on regularly backing up your data manually
+
+
